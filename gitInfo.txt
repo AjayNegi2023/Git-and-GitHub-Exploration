@@ -1,0 +1,5 @@
+Key Features:
+Version Tracking: Keep track of changes over time.
+Branching: Create branches to work on features or fixes independently.
+Merging: Combine changes from different branches.
+Staging Area: Prepare changes before committing them.
