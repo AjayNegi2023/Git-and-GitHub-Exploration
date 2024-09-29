@@ -1,0 +1,16 @@
+Git and GitHub are closely related but serve different purposes. Here’s a brief overview:
+
+Git
+What is it? Git is a distributed version control system that helps developers track changes in their code. It allows multiple people to work on the same project simultaneously without overwriting each other’s changes.
+Key Features:
+Version Tracking: Keep track of changes over time.
+Branching: Create branches to work on features or fixes independently.
+Merging: Combine changes from different branches.
+Staging Area: Prepare changes before committing them.
+GitHub
+What is it? GitHub is a web-based platform that uses Git for version control and collaboration. It provides a user-friendly interface for managing Git repositories.
+Key Features:
+Repositories: Store and manage your Git repositories online.
+Collaboration Tools: Features like pull requests, issues, and project boards help teams work together.
+Social Networking: Follow other developers, star repositories, and contribute to open-source projects.
+Integration: Works with various CI/CD tools and services.
